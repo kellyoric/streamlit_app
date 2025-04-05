@@ -116,6 +116,7 @@ def page_garde():
     st.markdown("<h3 style='text-align: center;'>ÉQUIPE</h3>", unsafe_allow_html=True)
     
     # Création de 4 colonnes pour les membres de l'équipe
+    """
     col1, col2, col3, col4 = st.columns(4)
     
     with col1:
@@ -130,7 +131,7 @@ def page_garde():
     with col4:
         st.image("AMAVI.jpeg", width=150, caption="TOMALOU AMAVI")
     
-    
+    """
 # Fonction pour créer la partie 2 (Contexte et justification)
 def partie_2():
     st.title("CONTEXTE DE L'ÉTUDE")
