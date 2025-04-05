@@ -98,7 +98,7 @@ def page_garde():
         return base64.b64encode(data).decode()
 
 # Convertir l'image en base64
-    img_base64 = get_base64_of_bin_file("NEW_LOGO_ENSEA_sans_fond.PNG")
+    #img_base64 = get_base64_of_bin_file("NEW_LOGO_ENSEA_sans_fond.PNG")
     with col2:
         st.markdown(
         f"""
