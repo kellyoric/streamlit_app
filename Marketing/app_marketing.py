@@ -99,16 +99,7 @@ def page_garde():
 
 # Convertir l'image en base64
     #img_base64 = get_base64_of_bin_file("NEW_LOGO_ENSEA_sans_fond.PNG")
-    with col2:
-        st.markdown(
-        f"""
-        <div style="text-align: center;">
-            <img src="data:image/png;base64,{img_base64}" width="200">
-            <p style="font-weight: bold; margin-top: 0.5rem;">École Nationale Supérieure de Statistique et d'Économie Appliquée</p>
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
+    
   
 
     
