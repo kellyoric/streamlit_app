@@ -772,7 +772,7 @@ def main():
 
     # Sidebar avec logo personnalisé
     with st.sidebar:
-        st.image("transea.jpeg", width=200)  # Ton logo
+        #st.image("transea.jpeg", width=200)  # Ton logo
 
         #st.markdown("<h2 style='margin-top: 20px;'>Navigation</h2>", unsafe_allow_html=True)
 
