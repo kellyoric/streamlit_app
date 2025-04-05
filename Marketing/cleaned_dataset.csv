@@ -1,0 +1,148 @@
+,selection,age,sex,nationality,course,class_ise,class_as,main_service,evaluation_note,price,availibility,speed,safety,comfort,quality,nps_note,nps,price_vehicle,price_wanted,horaires_note,morn_time,even_time,mean_time,mean_time_wanted,criteria,other_criteria,services,other_services,vehicle_type,even_transport,class
+0,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,oui,ans_18_21,feminin,ivoirienne,ise,ise2,,taxi_rouge,,4.0,4.0,5.0,5.0,4.0,4.0,,9.0,moins_1000,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,accessibilite,,non,,minibus,oui,ise2
+2,oui,ans_22_25,feminin,ivoirienne,ise,ise2,,yango_heetch,,4.0,3.0,2.0,4.0,4.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_15_20,min_10_15,securite,,oui,WI-FI,minibus,oui,ise2
+3,oui,ans_22_25,masculin,ivoirienne,ise,ise2,,yango_heetch,,3.0,4.0,4.0,4.0,4.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,confort,,non,,minibus,oui,ise2
+4,oui,ans_22_25,masculin,burkinabe,ise,ise2,,yango_heetch,,3.0,4.0,2.0,4.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_5_10,min_5_10,rapidite,,oui,,voiture_individuelle,oui,ise2
+5,oui,ans_22_25,masculin,ivoirienne,ise,ise2,,marche,,,,,,,,,,moins_1000,frs_1000_1200,,,,,,prix,,non,,minibus,oui,ise2
+6,oui,ans_22_25,feminin,camerounaise,ise,ise2,,yango_heetch,,5.0,4.0,4.0,5.0,5.0,4.0,,9.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h30_13h00,min_10_15,min_5_10,confort,,non,,minibus,oui,ise2
+7,oui,ans_18_21,masculin,nigerienne,ise,ise2,,yango_heetch,,4.0,3.0,4.0,4.0,4.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,prix,,non,,voiture_individuelle,oui,ise2
+8,oui,ans_22_25,masculin,ivoirienne,ise,ise2,,yango_heetch,,4.0,4.0,4.0,5.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,securite,,oui,,voiture_4places,oui,ise2
+9,oui,ans_18_21,masculin,ivoirienne,ise,ise2,,yango_heetch,,1.0,1.0,1.0,1.0,3.0,4.0,,8.0,moins_1000,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_20_25,min_10_15,rapidite,,oui,Wi-Fi,minibus,oui,ise2
+10,oui,ans_18_21,feminin,ivoirienne,ise,ise2,,taxi_rouge,,4.0,3.0,2.0,5.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,non,,minibus,oui,ise2
+11,oui,ans_22_25,masculin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,10.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,securite,,oui,,minibus,oui,as3
+12,oui,plus_25,masculin,burkinabe,ise,ise1,,yango_heetch,,4.0,4.0,3.0,4.0,3.0,4.0,,5.0,moins_1000,moins_1000,,h_7h00_7h20,h_11h40_12h00,min_5_10,min_5_10,prix,,non,,minibus,oui,ise1
+13,oui,ans_22_25,masculin,ivoirienne,ise,ise1,,yango_heetch,,4.0,4.0,2.0,5.0,4.0,2.0,,9.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,confort,,oui,"Wi-Fi, eau",minibus,oui,ise1
+14,oui,ans_18_21,feminin,ivoirienne,ise,ise1,,yango_heetch,,2.0,4.0,2.0,4.0,4.0,3.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_5_10,min_5_10,prix,,oui,"Des sandwichs, de l'eau",minibus,oui,ise1
+15,oui,ans_18_21,feminin,ivoirienne,ise,ise1,,yango_heetch,,3.0,2.0,2.0,2.0,3.0,4.0,,5.0,moins_1000,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,securite,,non,,voiture_4places,oui,ise1
+16,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,oui,ans_22_25,masculin,burkinabe,ise,ise1,,yango_heetch,,2.0,2.0,2.0,3.0,3.0,4.0,,5.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_10_15,prix,,non,,minibus,oui,ise1
+18,oui,ans_22_25,masculin,nigerienne,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,frs_1000_1200,,h_6h40_7h00,h_12h30_13h00,min_5_10,min_5_10,rapidite,,oui,"Wifi, prise, eau",voiture_4places,oui,as3
+19,oui,plus_25,masculin,congolaise,as,,as2,yango_heetch,,4.0,4.0,4.0,5.0,5.0,5.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_10_15,prix,,non,,minibus,oui,as2
+20,oui,ans_18_21,masculin,ivoirienne,as,,as2,marche,,,,,,,,,,frs_1000_1500,frs_1000_1200,,,,,,accessibilite,,oui,"Wi-Fi, Eau, Climatisation",minibus,oui,as2
+21,oui,ans_18_21,masculin,ivoirienne,ise,ise1,,taxi_rouge,,1.0,1.0,1.0,1.0,1.0,1.0,,8.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_10_15,prix,,non,,minibus,oui,ise1
+22,oui,ans_22_25,masculin,nigerienne,ise,ise1,,yango_heetch,,4.0,4.0,3.0,4.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,securite,,oui,,minibus,oui,ise1
+23,oui,ans_22_25,masculin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,4.0,5.0,4.0,4.0,,6.0,moins_1000,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_5_10,min_5_10,prix,,oui,,minibus,oui,as3
+24,oui,ans_18_21,feminin,ivoirienne,as,,as3,yango_heetch,,4.0,2.0,4.0,4.0,4.0,2.0,,9.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,oui,"Wi-Fi , prise",voiture_4places,oui,as3
+25,oui,ans_18_21,feminin,nigerienne,as,,as2,yango_heetch,,3.0,2.0,2.0,4.0,4.0,3.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,securite,,oui,"Wifi, eau",minibus,oui,as2
+26,oui,plus_25,masculin,congolaise,ise,ise1,,yango_heetch,,2.0,1.0,3.0,4.0,4.0,3.0,,5.0,frs_1000_1500,frs_1000_1200,,h_7h00_7h20,h_12h00_12h30,min_15_20,min_10_15,rapidite,,non,,minibus,oui,ise1
+27,oui,moins_18,feminin,ivoirienne,as,,as2,yango_heetch,,4.0,4.0,2.0,5.0,5.0,3.0,,8.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h30_13h00,min_10_15,min_5_10,prix,,non,,minibus,oui,as2
+28,oui,ans_18_21,masculin,ivoirienne,as,,as3,taxi_rouge,,4.0,2.0,4.0,4.0,4.0,3.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_15_20,accessibilite,,non,,voiture_4places,oui,as3
+29,oui,ans_22_25,masculin,tchadienne,as,,as3,marche,,,,,,,,,,moins_1000,moins_1000,,,,,,prix,,oui,"Wi-Fi,  EAU",minibus,oui,as3
+30,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,oui,ans_18_21,masculin,camerounaise,as,,as2,yango_heetch,,3.0,3.0,3.0,4.0,4.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,accessibilite,,non,,minibus,oui,as2
+32,oui,ans_18_21,feminin,camerounaise,as,,as2,yango_heetch,,4.0,3.0,3.0,4.0,4.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,prix,,non,,voiture_4places,oui,as2
+33,oui,ans_22_25,masculin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,6.0,frs_1000_1500,frs_1000_1200,,h_7h00_7h20,h_12h30_13h00,min_15_20,min_10_15,prix,,non,,voiture_4places,oui,as3
+34,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,oui,ans_18_21,masculin,tchadienne,as,,as2,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,non,,voiture_4places,non,as2
+36,oui,ans_18_21,masculin,burkinabe,as,,as1,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,non,,minibus,non,as1
+37,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,oui,ans_18_21,masculin,camerounaise,as,,as1,yango_heetch,,4.0,4.0,4.0,4.0,3.0,3.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,prix,,oui,Wifi et eau,minibus,oui,as1
+39,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,oui,ans_18_21,masculin,burkinabe,as,,as2,yango_heetch,,2.0,2.0,3.0,4.0,3.0,4.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,prix,,oui,"Wifi, restauration",voiture_individuelle,oui,as2
+41,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,oui,moins_18,masculin,ivoirienne,ise,ise1,,gbaka,,3.0,3.0,3.0,2.0,2.0,2.0,,3.0,moins_1000,moins_1000,,h_7h00_7h20,h_11h40_12h00,min_20_25,min_5_10,rapidite,,non,,minibus,oui,ise1
+43,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,oui,ans_22_25,masculin,camerounaise,as,,as1,marche,,,,,,,,,,moins_1000,moins_1000,,,,,,prix,,oui,Wifi,minibus,non,as1
+45,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,oui,ans_18_21,feminin,burkinabe,as,,as1,yango_heetch,,3.0,3.0,4.0,3.0,4.0,3.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_10_15,accessibilite,,non,,voiture_4places,oui,as1
+47,oui,ans_18_21,masculin,beninoise,as,,as1,yango_heetch,,1.0,1.0,1.0,2.0,2.0,3.0,,3.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,non,,minibus,oui,as1
+48,oui,ans_18_21,feminin,camerounaise,as,,as1,yango_heetch,,1.0,4.0,3.0,3.0,4.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,oui,,minibus,oui,as1
+49,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,oui,plus_25,masculin,guineenne,as,,as1,yango_heetch,,3.0,4.0,4.0,4.0,4.0,4.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,securite,,oui,,minibus,oui,as1
+51,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,oui,ans_22_25,masculin,camerounaise,ise,ise1,,taxi_rouge,,3.0,2.0,3.0,4.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_11h40_12h00,min_15_20,min_10_15,securite,,non,,voiture_4places,oui,ise1
+53,oui,ans_22_25,masculin,ivoirienne,ise,ise1,,yango_heetch,,2.0,2.0,2.0,3.0,3.0,3.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,prix,,oui,,minibus,oui,ise1
+54,oui,ans_18_21,feminin,camerounaise,as,,as1,yango_heetch,,3.0,4.0,2.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_5_10,prix,,oui,"Eau, wifi",minibus,oui,as1
+55,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,oui,ans_18_21,masculin,congolaise,as,,as3,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,non,,voiture_individuelle,oui,as3
+57,oui,ans_18_21,masculin,burkinabe,ise,ise1,,yango_heetch,,3.0,2.0,1.0,2.0,4.0,4.0,,4.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,prix,,oui,,minibus,oui,ise1
+58,oui,plus_25,masculin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,4.0,5.0,5.0,5.0,,10.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,securite,,oui,Wi-Fi,minibus,oui,as3
+59,oui,ans_18_21,masculin,ivoirienne,as,,as2,yango_heetch,,4.0,3.0,4.0,4.0,4.0,4.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_10_15,rapidite,,non,,minibus,oui,as2
+60,oui,ans_18_21,feminin,ivoirienne,as,,as1,yango_heetch,,3.0,2.0,3.0,3.0,3.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_10_15,rapidite,,non,,minibus,oui,as1
+61,oui,ans_22_25,feminin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,accessibilite,,oui,,minibus,oui,as3
+62,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,oui,ans_22_25,masculin,burkinabe,ise,ise1,,yango_heetch,,2.0,4.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,prix,,oui,Wi-Fi,minibus,non,ise1
+64,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,oui,ans_22_25,feminin,camerounaise,as,,as3,taxi_rouge,,5.0,5.0,5.0,5.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,oui,"Moto, car",minibus,oui,as3
+66,oui,ans_18_21,masculin,ivoirienne,as,,as2,taxi_rouge,,4.0,2.0,4.0,4.0,4.0,2.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,securite,,non,,minibus,oui,as2
+67,oui,ans_22_25,masculin,ivoirienne,as,,as3,yango_heetch,,2.0,4.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_15_20,min_10_15,prix,,oui,,minibus,oui,as3
+68,oui,ans_22_25,masculin,ivoirienne,as,,as3,yango_heetch,,2.0,2.0,3.0,4.0,2.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_10_15,confort,,non,,minibus,oui,as3
+69,oui,ans_18_21,feminin,ivoirienne,as,,as1,yango_heetch,,3.0,2.0,3.0,4.0,4.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_5_10,rapidite,,oui,,minibus,oui,as1
+70,oui,ans_22_25,feminin,ivoirienne,as,,as3,yango_heetch,,2.0,4.0,2.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_5_10,prix,,non,,minibus,oui,as3
+71,oui,ans_22_25,masculin,congolaise,as,,as3,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,non,,minibus,oui,as3
+72,oui,ans_18_21,feminin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,3.0,5.0,5.0,2.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,accessibilite,,non,,minibus,non,as3
+73,oui,ans_22_25,masculin,ivoirienne,as,,as2,taxi_rouge,,4.0,2.0,4.0,4.0,3.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_11h40_12h00,min_5_10,min_5_10,confort,,oui,Eau et Wifi,minibus,oui,as2
+74,oui,ans_22_25,masculin,guineenne,as,,as3,taxi_jaune,,4.0,2.0,4.0,3.0,3.0,2.0,,8.0,moins_1000,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_5_10,min_5_10,securite,,non,,minibus,oui,as3
+75,oui,ans_22_25,masculin,camerounaise,ise,ise1,,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_10_15,securite,,oui,,minibus,oui,ise1
+76,oui,ans_18_21,feminin,camerounaise,as,,as2,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,accessibilite,,non,,minibus,oui,as2
+77,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,oui,ans_22_25,masculin,ivoirienne,ise,ise1,,yango_heetch,,4.0,2.0,4.0,5.0,4.0,4.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,rapidite,,non,,minibus,oui,ise1
+79,oui,ans_18_21,masculin,togolaise,as,,as1,taxi_rouge,,2.0,1.0,2.0,2.0,1.0,2.0,,4.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_5_10,prix,,non,,minibus,oui,as1
+80,oui,ans_18_21,feminin,ivoirienne,ise,ise1,,yango_heetch,,3.0,3.0,4.0,4.0,4.0,4.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,prix,,non,,minibus,oui,ise1
+81,oui,ans_18_21,feminin,burkinabe,as,,as1,yango_heetch,,3.0,2.0,2.0,4.0,4.0,4.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_10_15,prix,,non,,minibus,oui,as1
+82,oui,ans_18_21,feminin,burkinabe,as,,as1,yango_heetch,,4.0,3.0,3.0,4.0,4.0,3.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_5_10,prix,,non,,minibus,oui,as1
+83,oui,moins_18,masculin,ivoirienne,as,,as1,yango_heetch,,4.0,2.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_5_10,prix,,oui,Wi-Fi et eau,minibus,oui,as1
+84,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,oui,ans_18_21,masculin,camerounaise,as,,as1,yango_heetch,,2.0,4.0,4.0,4.0,4.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_5_10,min_5_10,securite,,oui,,minibus,oui,as1
+87,oui,ans_22_25,masculin,beninoise,ise,ise1,,yango_heetch,,4.0,3.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,rapidite,,non,,minibus,oui,ise1
+88,oui,ans_22_25,masculin,ivoirienne,as,,as3,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,oui,WI-FI,voiture_4places,non,as3
+89,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,oui,ans_22_25,masculin,ivoirienne,as,,as2,taxi_rouge,,4.0,3.0,4.0,4.0,4.0,3.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,oui,"WI-FI, Prise USB, Café",minibus,oui,as2
+91,oui,ans_22_25,masculin,camerounaise,as,,as3,yango_heetch,,4.0,4.0,3.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_15_20,rapidite,,oui,,minibus,oui,as3
+92,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,oui,ans_18_21,masculin,ivoirienne,as,,as3,marche,,,,,,,,,,frs_1000_1500,frs_1000_1200,,,,,,prix,,non,,voiture_4places,non,as3
+95,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,oui,ans_18_21,feminin,camerounaise,as,,as2,yango_heetch,,3.0,4.0,4.0,4.0,4.0,4.0,,5.0,frs_1000_1500,frs_1000_1200,,h_6h40_7h00,h_12h30_13h00,min_5_10,min_5_10,prix,,oui,Wi-fi,minibus,oui,as2
+97,oui,moins_18,feminin,ivoirienne,as,,as1,yango_heetch,,4.0,3.0,4.0,4.0,4.0,3.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_10_15,securite,,oui,Climatisation gratuite et lotus,voiture_4places,oui,as1
+98,oui,plus_25,masculin,ivoirienne,ise,ise3,,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,non,,minibus,oui,ise3
+99,oui,plus_25,masculin,ivoirienne,ise,ise3,,gbaka,,4.0,4.0,2.0,2.0,2.0,2.0,,3.0,frs_1000_1500,frs_1000_1200,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_5_10,securite,,non,,minibus,oui,ise3
+100,oui,ans_22_25,masculin,congolaise,as,,as3,yango_heetch,,5.0,4.0,4.0,5.0,4.0,4.0,,5.0,frs_1000_1500,frs_1000_1200,,h_6h40_7h00,h_11h40_12h00,min_5_10,min_5_10,securite,,non,,minibus,oui,as3
+101,oui,ans_22_25,masculin,ivoirienne,ise,ise3,,yango_heetch,,4.0,4.0,3.0,4.0,4.0,3.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,rapidite,,oui,PRISE USB,voiture_4places,oui,ise3
+102,oui,ans_22_25,masculin,ivoirienne,ise,ise3,,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,9.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_5_10,min_5_10,rapidite,,non,,minibus,oui,ise3
+103,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,oui,ans_22_25,masculin,camerounaise,as,,as3,yango_heetch,,4.0,4.0,3.0,4.0,4.0,3.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_5_10,rapidite,,oui,WIFI,voiture_4places,oui,as3
+105,oui,plus_25,masculin,ivoirienne,ise,ise3,,yango_heetch,,4.0,4.0,5.0,5.0,4.0,5.0,,9.0,moins_1000,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,prix,,non,,minibus,oui,ise3
+106,oui,ans_22_25,masculin,burkinabe,as,,as3,marche,,,,,,,,,,frs_1000_1500,frs_1000_1200,,,,,,prix,,non,,voiture_4places,non,as3
+107,oui,ans_18_21,masculin,togolaise,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,3.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_10_15,prix,,non,,minibus,oui,as3
+108,oui,ans_22_25,masculin,ivoirienne,ise,ise3,,yango_heetch,,3.0,3.0,3.0,4.0,4.0,4.0,,7.0,moins_1000,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_10_15,rapidite,,non,,minibus,oui,ise3
+109,oui,ans_22_25,masculin,ivoirienne,ise,ise3,,yango_heetch,,4.0,4.0,3.0,4.0,3.0,3.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_10_15,min_5_10,accessibilite,,non,,voiture_4places,non,ise3
+110,oui,ans_18_21,masculin,togolaise,as,,as3,yango_heetch,,3.0,3.0,4.0,4.0,3.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,prix,,oui,Wifi,minibus,oui,as3
+111,oui,ans_18_21,masculin,togolaise,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,4.0,4.0,,9.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,prix,,non,,voiture_4places,oui,as3
+112,oui,ans_22_25,masculin,ivoirienne,as,,as3,taxi_rouge,,4.0,4.0,4.0,4.0,3.0,4.0,,8.0,moins_1000,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_5_10,prix,,oui,Wifi et à boire,voiture_4places,oui,as3
+113,oui,ans_22_25,feminin,burkinabe,ise,ise1,,yango_heetch,,4.0,4.0,4.0,4.0,4.0,3.0,,5.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h00_12h30,min_10_15,min_10_15,securite,,oui,,minibus,oui,ise1
+114,oui,ans_22_25,masculin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,3.0,3.0,4.0,3.0,,5.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,rapidite,,oui,La clim,minibus,oui,as3
+115,oui,ans_18_21,feminin,camerounaise,as,,as1,yango_heetch,,4.0,3.0,4.0,5.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h30_13h00,min_5_10,min_5_10,securite,,non,,minibus,oui,as1
+116,oui,ans_22_25,masculin,burkinabe,as,,as1,taxi_rouge,,4.0,1.0,2.0,4.0,4.0,1.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,securite,,oui,Wi-Fi,minibus,oui,as1
+117,oui,ans_18_21,masculin,camerounaise,as,,as2,taxi_rouge,,3.0,4.0,3.0,2.0,2.0,3.0,,5.0,frs_1000_1500,moins_1000,,h_6h40_7h00,h_12h30_13h00,min_5_10,min_5_10,accessibilite,,non,,minibus,oui,as2
+118,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,oui,ans_18_21,masculin,camerounaise,as,,as1,taxi_rouge,,4.0,2.0,3.0,4.0,3.0,3.0,,6.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,prix,,oui,"Wi-Fi, Climatisation",minibus,oui,as1
+120,oui,ans_18_21,masculin,burkinabe,as,,as1,yango_heetch,,3.0,3.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_11h40_12h00,min_15_20,min_10_15,prix,,oui,Wifi,minibus,oui,as1
+121,oui,ans_22_25,masculin,ivoirienne,as,,as3,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,oui,wifi,voiture_individuelle,non,as3
+122,oui,moins_18,feminin,ivoirienne,as,,as1,yango_heetch,,4.0,3.0,3.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,securite,,non,,minibus,oui,as1
+123,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,oui,ans_22_25,masculin,togolaise,ise,ise2,,taxi_rouge,,4.0,3.0,4.0,4.0,3.0,4.0,,6.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_10_15,prix,,non,,voiture_4places,oui,ise2
+125,oui,ans_22_25,feminin,camerounaise,as,,as1,yango_heetch,,3.0,4.0,2.0,4.0,4.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h00_7h20,h_12h30_13h00,min_10_15,min_5_10,securite,,oui,,minibus,oui,as1
+126,oui,ans_18_21,masculin,ivoirienne,as,,as3,yango_heetch,,4.0,4.0,4.0,4.0,4.0,3.0,,9.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,non,,voiture_4places,oui,as3
+127,oui,ans_22_25,masculin,malienne,ise,ise1,,yango_heetch,,2.0,3.0,4.0,4.0,3.0,4.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,rapidite,,non,,minibus,oui,ise1
+128,oui,ans_18_21,masculin,ivoirienne,ise,ise1,,yango_heetch,,3.0,3.0,3.0,4.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_15_20,min_10_15,rapidite,,non,,voiture_4places,oui,ise1
+129,oui,ans_22_25,feminin,camerounaise,as,,as2,yango_heetch,,4.0,4.0,3.0,4.0,4.0,4.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,prix,,non,,voiture_4places,oui,as2
+130,oui,ans_18_21,masculin,ivoirienne,as,,as2,taxi_rouge,,2.0,2.0,4.0,4.0,4.0,4.0,,6.0,moins_1000,moins_1000,,h_7h20_7h40,h_11h40_12h00,min_5_10,min_5_10,accessibilite,,non,,minibus,oui,as2
+131,oui,ans_18_21,masculin,ivoirienne,ise,ise2,,yango_heetch,,4.0,4.0,4.0,4.0,4.0,3.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,oui,,voiture_individuelle,oui,ise2
+132,oui,ans_18_21,masculin,togolaise,as,,as1,marche,,,,,,,,,,frs_1000_1500,moins_1000,,,,,,prix,,non,,minibus,non,as1
+133,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,oui,ans_22_25,masculin,ivoirienne,as,,as2,marche,,,,,,,,,,moins_1000,moins_1000,,,,,,prix,,non,,minibus,oui,as2
+137,oui,ans_18_21,masculin,burkinabe,as,,as2,taxi_rouge,,3.0,4.0,4.0,4.0,4.0,3.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,prix,,oui,,minibus,oui,as2
+138,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,oui,ans_22_25,masculin,ivoirienne,ise,ise2,,gbaka,,4.0,3.0,3.0,3.0,2.0,3.0,,7.0,frs_1000_1500,moins_1000,,h_6h40_7h00,h_12h00_12h30,min_15_20,min_10_15,prix,,non,,minibus,oui,ise2
+140,oui,ans_18_21,feminin,ivoirienne,ise,ise2,,yango_heetch,,4.0,2.0,4.0,4.0,4.0,4.0,,8.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,autre,Prix et accessibilité à un arrêt proche,non,,minibus,oui,ise2
+141,oui,ans_18_21,feminin,camerounaise,as,,as2,gbaka,,2.0,4.0,4.0,2.0,2.0,2.0,,6.0,moins_1000,moins_1000,,h_6h40_7h00,h_12h30_13h00,min_5_10,min_5_10,securite,,oui,Wi-Fi,minibus,oui,as2
+142,oui,ans_22_25,masculin,tchadienne,as,,as2,yango_heetch,,3.0,4.0,4.0,4.0,4.0,4.0,,7.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_5_10,securite,,non,,voiture_4places,oui,as2
+143,oui,ans_18_21,feminin,ivoirienne,ise,ise2,,yango_heetch,,3.0,3.0,4.0,4.0,4.0,3.0,,7.0,frs_1000_1500,frs_1000_1200,,h_7h20_7h40,h_12h00_12h30,min_10_15,min_5_10,securite,,non,,minibus,oui,ise2
+144,oui,ans_22_25,masculin,tchadienne,as,,as2,yango_heetch,,5.0,4.0,4.0,5.0,5.0,4.0,,8.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_5_10,min_5_10,securite,,non,,minibus,oui,as2
+145,non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,oui,ans_18_21,masculin,burkinabe,as,,as1,yango_heetch,,4.0,3.0,4.0,4.0,3.0,3.0,,5.0,frs_1000_1500,moins_1000,,h_7h20_7h40,h_12h30_13h00,min_10_15,min_10_15,prix,,non,,minibus,oui,as1
