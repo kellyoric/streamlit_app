@@ -1,13 +1,9 @@
 streamlit
 pandas
-numpy 
+numpy
 plotly
-re
-collections
 matplotlib
 seaborn
-PIL  
+Pillow
 wordcloud
-os
-time
-numpy
+
